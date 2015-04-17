@@ -44,13 +44,21 @@ main .right {
 
 h3 {
 	font-style: blue;
+	letter-spacing: 1px;
+	border-bottom: dotted;
+	border-bottom-color: gray;
 }
 
 #wrapper{
-	width: 400px;
+	width: 500px;
 	margin-left: auto;
 	margin-right: auto;
 
+}
+
+p.q{
+	text-indent: 25px;
+	letter-spacing: 1px;
 }
 
 footer .left {
