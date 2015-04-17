@@ -42,7 +42,7 @@ main .right {
   width: 285px;
 }
 
-h3 {
+h3.qs {
 	font-style: blue;
 	letter-spacing: 1px;
 	border-bottom: dotted;
